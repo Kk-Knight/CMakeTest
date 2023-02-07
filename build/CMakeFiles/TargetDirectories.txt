@@ -1,0 +1,8 @@
+/home/genius/Code/CmakeTest/build/CMakeFiles/edit_cache.dir
+/home/genius/Code/CmakeTest/build/CMakeFiles/rebuild_cache.dir
+/home/genius/Code/CmakeTest/build/src/CMakeFiles/cmake_test.dir
+/home/genius/Code/CmakeTest/build/src/CMakeFiles/edit_cache.dir
+/home/genius/Code/CmakeTest/build/src/CMakeFiles/rebuild_cache.dir
+/home/genius/Code/CmakeTest/build/test/CMakeFiles/test.dir
+/home/genius/Code/CmakeTest/build/test/CMakeFiles/edit_cache.dir
+/home/genius/Code/CmakeTest/build/test/CMakeFiles/rebuild_cache.dir

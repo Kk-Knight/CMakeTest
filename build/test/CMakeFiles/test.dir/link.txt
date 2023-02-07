@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test.dir/main.cpp.o -o ../../out/bin/test   -L/home/genius/Code/CmakeTest/lib  -Wl,-rpath,/home/genius/Code/CmakeTest/lib:/home/genius/Code/CmakeTest/out/lib ../../out/lib/libcmake_test.so 
